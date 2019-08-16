@@ -28,7 +28,7 @@ sudo free
 sudo echo "/var/swap.img none swap sw 0 0" >> /etc/fstab
 cd
 
-wget https://github.com/criptopeso/Criptopeso/releases/download/1.1.0/criptopeso-1.1.0-x86_64-linux-gnu.tar.gz
+wget https://github.com/comunidaddcoins/Criptopeso/releases/download/1.1.0/criptopeso-1.1.0-x86_64-linux-gnu.tar.gz
 tar -xzf criptopeso-1.1.0-x86_64-linux-gnu.tar.gz
 
 sudo apt-get install -y ufw
