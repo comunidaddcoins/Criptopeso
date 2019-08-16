@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/criptopeso_bg.qm</file>
+        <file alias="ca">locale/criptopeso_ca.qm</file>
+        <file alias="cs">locale/criptopeso_cs.qm</file>
+        <file alias="da">locale/criptopeso_da.qm</file>
+        <file alias="de">locale/criptopeso_de.qm</file>
+        <file alias="en">locale/criptopeso_en.qm</file>
+        <file alias="en_US">locale/criptopeso_en_US.qm</file>
+        <file alias="es">locale/criptopeso_es.qm</file>
+        <file alias="fi">locale/criptopeso_fi.qm</file>
+        <file alias="fr_FR">locale/criptopeso_fr_FR.qm</file>
+        <file alias="it">locale/criptopeso_it.qm</file>
+        <file alias="ja">locale/criptopeso_ja.qm</file>
+        <file alias="ko_KR">locale/criptopeso_ko_KR.qm</file>
+        <file alias="nl">locale/criptopeso_nl.qm</file>
+        <file alias="pl">locale/criptopeso_pl.qm</file>
+        <file alias="pt">locale/criptopeso_pt.qm</file>
+        <file alias="pt_BR">locale/criptopeso_pt_BR.qm</file>
+        <file alias="ro_RO">locale/criptopeso_ro_RO.qm</file>
+        <file alias="ru">locale/criptopeso_ru.qm</file>
+        <file alias="sk">locale/criptopeso_sk.qm</file>
+        <file alias="sv">locale/criptopeso_sv.qm</file>
+        <file alias="tr">locale/criptopeso_tr.qm</file>
+        <file alias="uk">locale/criptopeso_uk.qm</file>
+        <file alias="zh_CN">locale/criptopeso_zh_CN.qm</file>
+        <file alias="zh_TW">locale/criptopeso_zh_TW.qm</file>
+    </qresource>
+</RCC>
